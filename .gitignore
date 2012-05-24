@@ -1,0 +1,5 @@
+/wp-config.php
+/.htaccess
+/wp-content/uploads.bundle
+/capatross_logs
+.rvmrc
