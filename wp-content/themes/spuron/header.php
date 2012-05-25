@@ -8,7 +8,8 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<meta property="og:image" content="http://nexc2012.extension.org/wp-content/uploads/2012/05/FB_logo.jpg"/>
+<meta property="og:image" content="http://nexc2012.extension.org/wp-content/uploads/2012/05/FB_logo1.jpg"/>
+<meta property="og:url" content="http://nexc2012.extension.org/"/>
 <meta property="og:title" content="eXtension 2012 National Conference">
 <meta property="og:site_name" content="Spur On the Evolution of eXtension"/>
 <meta property="og:description" content="Join colleagues from across the county in Oklahoma City, September 30 to October 5, 2012 as we explore new ways of working smarter not harder, the implications of technology in program delivery and work, educating in new and different ways, and enhancing the value our work brings at the state and local levels."/>
