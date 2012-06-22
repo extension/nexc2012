@@ -546,6 +546,7 @@ nav#subnav ul.menu li.menu-item ul.sub-menu li.menu-item a {
 /* --- Post Tables --- */
 #content table {
 	margin:10px 0px 30px 0px;
+	border-top:1px solid #ddd;
 }
 #content table thead {
 	border-top:1px solid #ddd;
@@ -563,6 +564,21 @@ nav#subnav ul.menu li.menu-item ul.sub-menu li.menu-item a {
 	padding: 10px 20px 10px 20px;
 	border-left:1px solid #ddd;
 	border-right:1px solid #ddd;
+}
+
+#content .agenda table {
+	width: 100%;
+}
+#content .agenda table td {
+	font-weight: bold;
+}
+#content .agenda .time {
+	width: 120px;
+	color: #009BC2;
+	font-size: .8em;
+}
+#content .agenda table td em{
+	font-weight: normal;
 }
 
 /* Single Posts

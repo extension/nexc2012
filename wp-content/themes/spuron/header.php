@@ -35,6 +35,7 @@
 <![endif]-->
 
 <?php wp_head(); ?>
+<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/spuron.js" type="text/javascript"></script>
 </head>
 <body <?php body_class(); ?>>
 <div id="page" class="clearfix">
