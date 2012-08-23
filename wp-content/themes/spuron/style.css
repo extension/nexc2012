@@ -293,7 +293,7 @@ nav#subnav ul.menu {
 }
 nav#subnav ul.menu li.menu-item {
 	width: 14.2468%;
-	margin:0px;
+	margin:10px 0 5px 0;
 	float: left;
 	list-style: none;
 }
@@ -314,7 +314,7 @@ nav#subnav ul.menu li.menu-item ul.sub-menu li.menu-item {
 nav#subnav ul.menu li.menu-item ul.sub-menu li.menu-item a {
 	font-size: .8em;
 	font-weight: normal;
-	line-height:2;
+	line-height:1;
 	text-transform: none;
 }
 /* Posts
