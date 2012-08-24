@@ -580,6 +580,19 @@ nav#subnav ul.menu li.menu-item ul.sub-menu li.menu-item a {
 #content .agenda table td em{
 	font-weight: normal;
 }
+#content .sessions table h6{
+	font-weight: normal;
+	color: #009BC2;
+}
+#content .sessions table h4{
+	color: #009BC2;
+	margin-top: 0;
+}
+
+#content .sessions table h2{
+	margin-top: 0;
+}
+
 
 /* Single Posts
 --------------------------------------------- */
