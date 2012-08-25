@@ -8,9 +8,9 @@ jQuery(document).ready(function ($) {
 	
 	
 	$('.session').click(function(){
-		$(this).next().toggle('slow');
+		$(this).next().slideToggle('slow');
 		return false;
-	}).css('cursor', 'pointer').next().css('font-weight', 'normal').hide();
+	}).css('cursor', 'pointer').nextAll('span').css('font-weight', 'normal').hide();
 	
 	
 });
