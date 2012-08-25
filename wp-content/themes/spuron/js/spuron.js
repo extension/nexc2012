@@ -5,4 +5,12 @@ jQuery(document).ready(function ($) {
 		$(this).next().toggle('slow');
 		return false;
 	}).css('cursor', 'pointer');
+	
+	
+	$('.session').click(function(){
+		$(this).next().toggle('slow');
+		return false;
+	}).css('cursor', 'pointer').next().css('font-weight', 'normal').hide();
+	
+	
 });
